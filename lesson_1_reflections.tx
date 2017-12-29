@@ -1,0 +1,43 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+If there was a version working and after a change program does not work anymore, it will help 
+to find what were the changes performed.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+it will help me to indentify the structure of the problem and how it has been modified.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+in the manual you can forget to do a commit, in the other hand, the automatic can have too much changes in single version depending on the frecuency.
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+it is because control systems assumes that there will be a relation between files, there will be in some cases dependencies. In the case of other systems files are not related or they do not have this feature enabled.
+
+How can you use the commands git log and git diff to view the history of files?
+git log to see the history of the commits and gather information. 
+
+How might using version control make you more confident to make changes that could break something?
+if i make a mistake i can find where it is using the last version working.
+
+
+4035769377cce96a88d5c1167079e12f30492391
+
+343935ff4f3853653f23e3694d64ffa3035ed1de
+
+
+b0678b161fcf74467ed3a63110557e3d6229cfa6
+
+f19cb1b80fe27e938e4d72770ca0a42f25e99ecc
+
+Find in which commit the started the error
+
+df035382c41b4d0cda86a1aa30b53f15bef05b53
+
+25ede836903881848fea811df5b687b59d962da3 --
+
+4035769377cce96a88d5c1167079e12f30492391
+
+3e42136a76cf78c6c421cd720427bf6337c2d623
+
+3e42136a76cf78c6c421cd720427bf6337c2d623
+
+~
