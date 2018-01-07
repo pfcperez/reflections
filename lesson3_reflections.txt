@@ -1,0 +1,1 @@
+cuando se crea una archivo directamente en github y cuando en el repositorio?
